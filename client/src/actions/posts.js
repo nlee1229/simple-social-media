@@ -1,4 +1,4 @@
-import * as api from '../api'; // means we import everything from actions as api
+import * as api from '../api/index'; // means we import everything from actions as api
 
 // Actions creators (functions that return actions)
 // An action is just an object that has the type and a payload
